@@ -21,4 +21,4 @@
 ## Music Production
 
 **I have a Soundcloud where I put all the songs I feel are good enough to share, here's the link**  
-[Hitmanatee on Soundcloud](https://soundcloud.com/hitmanatee)
+* [Hitmanatee on Soundcloud](https://soundcloud.com/hitmanatee)
