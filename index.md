@@ -10,7 +10,7 @@
 ## Game Jams
 
 **Mainly worked on the soundtrack in this game.**
-* Neon Embrace](https://arbex.itch.io/neon-embrace)
+* [Neon Embrace](https://arbex.itch.io/neon-embrace)
 
 **Sound design and Graphics were my main duties, did a little scripting too.**  
 * [Lying Ads](https://biebrass.itch.io/lying-ads)
