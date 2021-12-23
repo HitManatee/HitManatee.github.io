@@ -17,3 +17,8 @@
 
 **Worked on loads of scripting, made the soundtrack. Couldn't get everything to work, but hindsight is 20/20.**  
 * [Here's the Drill](https://globalgamejam.org/2020/games/heres-drill-2)
+
+## Music Production
+
+**I have a Soundcloud where I put all the songs I feel are good enough to share, here's the link**  
+[Hitmanatee on Soundcloud](https://soundcloud.com/hitmanatee)
